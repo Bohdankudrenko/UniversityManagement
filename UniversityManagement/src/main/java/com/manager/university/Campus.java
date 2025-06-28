@@ -1,6 +1,6 @@
 package com.manager.university;
 
-public class Campus extends com.menager.university.Building {
+public class Campus extends com.manager.university.Building {
     String campusName;
     String adres;
 

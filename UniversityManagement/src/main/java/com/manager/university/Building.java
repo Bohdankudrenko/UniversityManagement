@@ -1,4 +1,4 @@
-package com.menager.university;
+package com.manager.university;
 
 public abstract class Building {
     protected int id;
